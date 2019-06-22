@@ -1,0 +1,1279 @@
+1.	Dark-Grey
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband Pillow - Dark Grey, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Shredded Memory Foam, Detachable Neck Roll on Bungee, Removable Covers & Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+  "color":"Dark Grey",
+  "height": "31.5",
+  "width": "8.5",
+  "weight":{
+  "@type": "QuantitativeValue",
+  "value": ["9.1","15"]
+  } ,
+  "gtin12": "712038556311",
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "SKU": "HUSB-BREST-Dgrey",
+  "award": "94",
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image": ["https://cdn.shopify.com/s/files/1/2813/2280/products/HUSB-BREST-DGREY-01_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dgrey-02_2fa38b75-73d8-412d-9465-09d1dfb3137a_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dgrey-03_d84853bd-b48f-4660-a677-272f475e8864_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dgrey-04_0752839a-5b4c-4e92-9ff4-db0bb8a1fd4d_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dgrey-04_option2_d6d0e86e-cc28-41dd-af4e-37a0f9cf08e0_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dgrey-06_0cfe3e29-d900-4698-bfb5-516daca344c6_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dgrey-05_20do-not_publish-broken_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dgrey-08_a4ffb903-ea95-472c-8407-766e1c54f1f4_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dgrey-05_bca33207-d93a-4831-87a7-7424110a6d7e_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dgrey-10_e0099d0a-3434-489b-8731-916ec10b5f8e_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dgrey-11_cbbf4a6d-aa05-4b67-ab8a-986bbe253782_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dgrey-12_33507be3-d679-4cad-9dcc-6492fc622a16_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dgrey-13_1000x.jpg?v=1560435382"], 
+  "offers": {
+    "@type": "aggregateOffer",
+    "availability": "http://schema.org/InStock",
+    "url": "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey",
+    "description": "You Save 20% ($20.00)",
+    "highPrice": "99.95",
+    "lowPrice": "79.95",
+    "offerCount": "1",
+    "priceCurrency": "USD",
+    "eligibleQuantity":{
+    "@type":"QuantitativeValue",
+    "value":"31.50 X 15.00 X 8.50 Inches"
+    }
+  }
+}
+</script>
+2.	Dark Blue
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband Pillow - Dark Blue, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Shredded Memory Foam, Detachable Neck Roll on Bungee, Removable Covers & Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+  "color":"Dark Blue",
+  "height": "31.5",
+  "width": "8.5",
+  "weight":{
+  "@type": "QuantitativeValue",
+  "value": ["9.1","15"]
+  } ,
+  "gtin12": "712038556403",
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "SKU": "HUSB-BREST-DBlue",
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image": ["https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dblue-01_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dblue-02_82deecf7-9d44-4809-9488-f68534f12487_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dblue-03_2cd4e831-61c0-4534-851f-1440eda5ea4f_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dblue-04_2a5678f2-d497-4641-9d47-8dfb7a62a28b_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dblue-05__20do-not_publish-broken_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dblue-06_1c28389e-07e5-46df-a2f2-e360893b4d48_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dblue-07_dc1e08c9-9d3a-4184-b046-80d367b7b179_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dblue-08_ba791236-c628-4398-bf19-0bfdec7c00a8_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dblue-09_a591a339-5b09-49b5-8f53-4ffc380d732a_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dblue-10_2cd02226-b0da-4b3c-8524-bfc72970b697_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dblue-11_6b00a5f1-41ea-4469-92bc-8cd99d2306a5_1000x.jpg?v=1560435382",
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dblue-12_20copy_1000x.jpg?v=1560435382",], 
+  "offers": {
+    "@type": "aggregateOffer",
+    "availability": "http://schema.org/InStock",
+    "url": "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey?variant=11710763892778",
+    "description": "You Save 20% ($20.00)",
+    "highPrice": "99.95",
+    "lowPrice": "79.95",
+    "offerCount": "1",
+    "priceCurrency": "USD",
+    "eligibleQuantity":{
+    "@type":"QuantitativeValue",
+    "value":"31.50 X 15.00 X 8.50 Inches"
+    }
+  }
+}
+</script>
+
+3.Black
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband Pillow - Black, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Shredded Memory Foam, Detachable Neck Roll on Bungee, Removable Covers & Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+  "color":"Black",
+  "height": "31.5",
+  "width": "8.5",
+  "weight":{
+  "@type": "QuantitativeValue",
+  "value": ["9.1","15"]
+  } ,
+  "gtin12": "712038556359",
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "SKU": "HUSB-BREST-Black",
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image": ["https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-black-01_update2_67d78184-c177-4fdd-9f1d-cd652074597d_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-black-02_d85c3220-7337-4c0b-8b83-2b575c0966ef_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-black-03_9d2a56d6-7a8f-44df-ac66-9bbafb77230f_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-black-04_20copy_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-black-05_b6dfe24e-fc35-4477-b65d-d972d389e33e_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-black-06_93d19a61-1414-47f7-983b-26b34f1de813_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-black-07_192f713a-4da4-46fc-9f94-20f00b957603_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-black-08_32c47881-7469-444a-a2db-c307c6863254_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-black-09_be6af01f-cc34-415e-a33d-7613cf5e3a1a_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-black-10_e58c78bb-944d-4710-9c76-20a021b88beb_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-dblue-11_6b00a5f1-41ea-4469-92bc-8cd99d2306a5_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-black-11_00c45ad7-2908-4cd6-8dfe-0bf6e77a9d91_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-black-14_1000x.jpg?v=1560435382"
+  ], 
+  "offers": {
+    "@type": "aggregateOffer",
+    "availability": "http://schema.org/InStock",
+    "url": "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey?variant=11710763565098",
+    "description": "You Save 20% ($20.00)",
+    "highPrice": "99.95",
+    "lowPrice": "79.95",
+    "offerCount": "1",
+    "priceCurrency": "USD",
+    "eligibleQuantity":{
+    "@type":"QuantitativeValue",
+    "value":"31.50 X 15.00 X 8.50 Inches"
+    }
+  }
+}
+</script>
+4.Chocolate
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband Pillow - Chocolate, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Shredded Memory Foam, Detachable Neck Roll on Bungee, Removable Covers & Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+  "color":"Chocolate",
+  "height": "31.5",
+  "width": "8.5",
+  "weight":{
+  "@type": "QuantitativeValue",
+  "value": ["9.1","15"]
+  } ,
+  "gtin12": "712038556328",
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "SKU": "HUSB-BREST-Choc",
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image": ["https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-choc-01_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-choc-02_04c10c16-e187-4ae8-8636-412ec909b80c_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-choc-03_94f18223-a888-43a4-898f-459c493313dc_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-choc-04_4ca33e43-d15e-47d9-9f8b-c63a6e5d3b2b_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-choc-05_98ee30eb-f76f-4db2-adb3-4db5bc34f72f_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-choc-06_235ab3b1-aa15-4dd1-9fba-7a974828e2fd_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-choc-07_342dbccf-1112-4c00-8fe1-8264d1fe7eb0_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-choc-08_6ca31e22-ca89-4b0b-b150-98578ab9332b_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-choc-09_47bc8b23-03e0-42ef-96d2-b937b01ec73b_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-choc-10_a128efe0-2ec9-4427-8358-dbcbac22c1c9_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-choc-11_4e9c86e4-84eb-49ab-95c7-70c767a05486_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-choc-12_2cae51da-d1fb-4377-b148-d992d5686397_1000x.jpg?v=1560435382"
+  ], 
+  "offers": {
+    "@type": "aggregateOffer",
+    "availability": "http://schema.org/InStock",
+    "url": "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey?variant=11710763761706",
+    "description": "You Save 20% ($20.00)",
+    "highPrice": "99.95",
+    "lowPrice": "79.95",
+    "offerCount": "1",
+    "priceCurrency": "USD",
+    "eligibleQuantity":{
+    "@type":"QuantitativeValue",
+    "value":"31.50 X 15.00 X 8.50 Inches"
+    }
+  }
+}
+</script>
+
+5.Purple
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband Pillow - Purple, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Shredded Memory Foam, Detachable Neck Roll on Bungee, Removable Covers & Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+  "color":"Purple",
+  "height": "31.5",
+  "width": "8.5",
+  "weight":{
+  "@type": "QuantitativeValue",
+  "value": ["9.1","15"]
+  } ,
+  "gtin12": "712038556304",
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "SKU": "HUSB-BREST-Purp",
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image": ["https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-purp-13_b00df299-7052-40ae-956d-e30f1cf7cd5c_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-purp-12_075b122a-cae6-4a44-8101-9ea78a618bbd_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-purp-11_fa39a5b2-28ea-408c-87bd-ddd06d686f5b_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-purp-10_0b329742-5cd0-4f20-bf30-ef81a4492a16_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-purp-09_f3a67057-2d11-4bd5-b383-4aac5aa605a6_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-purp-08_7aaa2d0c-0559-49da-83ea-216ecc9bc59f_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-purp-07_ab2af5cf-f8dc-4179-95db-ecba72213ba9_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-purp-06_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-purp-05_9ffc6c26-12f4-4406-8f7c-90435f973b9a_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-purp-04_21564551-57d0-4758-b973-49ee29a70e05_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-purp-03_8fb9de4f-d793-4fd0-8319-370c92575639_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-purp-02_4d6b9ae9-18db-47ba-92ee-cd5c6696c712_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-purp-01_8124b4d6-9048-4e50-a62f-c16564ab9087_1000x.jpg?v=1560435382"
+  ], 
+  "offers": {
+    "@type": "aggregateOffer",
+    "availability": "http://schema.org/InStock",
+    "url": "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey?variant=11710763827242",
+    "description": "You Save 20% ($20.00)",
+    "highPrice": "99.95",
+    "lowPrice": "79.95",
+    "offerCount": "1",
+    "priceCurrency": "USD",
+    "eligibleQuantity":{
+    "@type":"QuantitativeValue",
+    "value":"31.50 X 15.00 X 8.50 Inches"
+    }
+  }
+}
+</script>
+
+6. Carolina Blue
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband Pillow - Carolina Blue, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Memory Foam, Detachable Neck Roll on Bungee, Removable Covers, Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+  "color":"Carolina Blue",
+  "height": "31.5",
+  "width": "8.5",
+  "weight":{
+  "@type": "QuantitativeValue",
+  "value": ["9.1","15"]
+  } ,
+  "gtin12": "712038609550",
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "SKU": "HUSB-BREST-Teal",
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image": [ "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey?variant=11710763925546",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/img_3844_jb_crop_33b9f864-c271-41fc-a4f9-c12579e8c40a_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-teal-08_1dd8b288-211b-45d6-a89e-7c0194bc44e7_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-teal-07_89b759ec-9b5c-4d5c-acd3-8cd31506d05f_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-teal-06_0e5e947a-5aa8-4378-9dfd-f4964b813338_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/img_3309_bart_jb-crop_2_sharpened_677b3257-7239-4cf2-82e7-19f3b27965c6_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-teal-04_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-teal-03_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-teal-02_9242a464-0435-4c0e-98cd-79cb2435c96f_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-teal-01_1000x.jpg?v=1560435382"
+  ], 
+  "offers": {
+    "@type": "aggregateOffer",
+    "availability": "http://schema.org/InStock",
+    "url": "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey?variant=11710763925546",
+    "description": "You Save 20% ($20.00)",
+    "highPrice": "99.95",
+    "lowPrice": "79.95",
+    "offerCount": "1",
+    "priceCurrency": "USD",
+    "eligibleQuantity":{
+    "@type":"QuantitativeValue",
+    "value":"31.50 X 15.00 X 8.50 Inches"
+    }
+  }
+}
+</script>
+
+7. Light Purple
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband Pillow - Light Purple, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Shredded Memory Foam, Detachable Neck Roll on Bungee, Removable Covers & Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+  "color":"Light Purple",
+  "height": "31.5",
+  "width": "8.5",
+  "weight":{
+  "@type": "QuantitativeValue",
+  "value": ["9.1","15"]
+  } ,
+  "gtin12": "712038609567",
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "SKU": "HUSB-BREST-Lt-Purple",
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image": [ "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lt-purple-09_36c2a224-5d63-446f-942a-2b8cd1a1884c_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lt-purple-11_0161ab55-b748-4603-a468-19ef81b132a0_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lt-purple-10_1a8b8b36-5d8b-4534-a28a-cc325453a122_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lt-purple-08_06962ae4-82da-4137-bada-5561ffbef7f6_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lt-purple-07_543ae6ad-fc96-4309-a2ad-6d204c2507e6_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lt-purple-05_133716ac-f2d3-477d-aed9-25373c9cc317_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lt-purple-06_5c247752-70e5-45a6-be77-03e17c7540bb_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lt-purple-04_jb-update_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lt-purple-03_84ae5922-4cb1-4db4-9990-aece6ab1a458_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lt-purple-02_432a3af9-5fed-4d0a-84c1-0bd26541a84b_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lt-purple-01_cd506578-2fcf-4039-9306-1c4a7a4a2613_1000x.jpg?v=1560435382"
+  ], 
+  "offers": {
+    "@type": "aggregateOffer",
+    "availability": "http://schema.org/InStock",
+    "url": "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey?variant=11710763958314",
+    "description": "You Save 20% ($20.00)",
+    "highPrice": "99.95",
+    "lowPrice": "79.95",
+    "offerCount": "1",
+    "priceCurrency": "USD",
+    "eligibleQuantity":{
+    "@type":"QuantitativeValue",
+    "value":"31.50 X 15.00 X 8.50 Inches"
+    }
+  }
+}
+</script>
+
+8. Sky Blue
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband Pillow - Sky Blue, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Shredded Memory Foam, Detachable Neck Roll on Bungee, Removable Covers & Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+  "color":"Sky Blue",
+  "height": "31.5",
+  "width": "8.5",
+  "weight":{
+  "@type": "QuantitativeValue",
+  "value": ["9.1","15"]
+  } ,
+  "gtin12": "712038609581",
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "SKU": "HUSB-BREST-SkyBlue",
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image": [ "https://cdn.shopify.com/s/files/1/2813/2280/products/jb-6199_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-skyblue-10_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-skyblue-09_fa667e65-36d3-4d61-b8d7-6b95e40a9239_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-skyblue-08_1ec6203b-9b64-4e58-a345-9a1524351475_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-skyblue-07_a68490d2-95e0-4890-99fc-ef1c3dbca9bd_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-skyblue-06_b6547c83-035a-4d1c-983c-4774cb9f7ed6_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-skyblue-05_32b599a8-f443-4527-bd4c-660896648020_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-skyblue-04_e7730798-3e43-4d75-ad3f-fd400e8fb5d6_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-skyblue-03_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-skyblue-02_ac668497-6a99-457c-bb03-9d91fb119230_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-skyblue-01_1000x.jpg?v=1560435382"
+  ], 
+  "offers": {
+    "@type": "aggregateOffer",
+    "availability": "http://schema.org/InStock",
+    "url": "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey?variant=12195794518058",
+    "description": "You Save 20% ($20.00)",
+    "highPrice": "99.95",
+    "lowPrice": "79.95",
+    "offerCount": "1",
+    "priceCurrency": "USD",
+    "eligibleQuantity":{
+    "@type":"QuantitativeValue",
+    "value":"31.50 X 15.00 X 8.50 Inches"
+    }
+  }
+}
+</script>
+
+9. Pink
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband Pillow - Pink, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Shredded Memory Foam, Detachable Neck Roll on Bungee, Removable Covers & Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+  "color":"Sky Blue",
+  "height": "31.5",
+  "width": "8.5",
+  "weight":{
+  "@type": "QuantitativeValue",
+  "value": ["9.1","15"]
+  } ,
+  "gtin12": "712038609574",
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "SKU": "HUSB-BREST-Pink",
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image": [ "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-pink-11_e648202e-5b52-43a2-b02e-57b6c355c8ad_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-pink-10_939caa79-0227-4097-8313-6d636094555c_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-pink-09_9e693799-ac33-4640-af1c-a30a6fd92911_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-pink-08_84a5bc3f-2747-4b7a-b83a-c3225001f9d2_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-pink-07_9fb02e36-3ea3-419d-a3c7-ab5e7f3fe41f_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-pink-06_99be7824-695c-4351-a3b3-e08113b8600c_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-pink-05_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-pink-04_jb-update_d5612bce-fb1f-438a-81b2-8b755539d503_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-pink-03_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-pink-02_2aa09d42-5d5b-4ef5-a1f8-be63cdf29304_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-pink-01_1000x.jpg?v=1560435382"
+  ], 
+  "offers": {
+    "@type": "aggregateOffer",
+    "availability": "http://schema.org/InStock",
+    "url": "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey?variant=11710763630634",
+    "description": "You Save 20% ($20.00)",
+    "highPrice": "99.95",
+    "lowPrice": "79.95",
+    "offerCount": "1",
+    "priceCurrency": "USD",
+    "eligibleQuantity":{
+    "@type":"QuantitativeValue",
+    "value":"31.50 X 15.00 X 8.50 Inches"
+    }
+  }
+}
+</script>
+
+10.RED
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband Pillow - Red, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Shredded Memory Foam, Detachable Neck Roll on Bungee, Removable Covers & Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+  "color":"Red",
+  "height": "31.5",
+  "width": "8.5",
+  "weight":{
+  "@type": "QuantitativeValue",
+  "value": ["9.1","15"]
+  } ,
+  "gtin12": "712038556335",
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "SKU": "HUSB-BREST-Red",
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image": [ "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-red-13_ff1c6f90-61fd-4b9e-95df-840037ae3603_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-red-12_ca5d5474-cca3-4445-a272-be41dead493f_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-red-11_363a69dc-0868-4049-8397-34a9042ef460_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-red-10_8c8dd026-327f-4a7e-9845-daae08619b03_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-red-09_93c7832b-dec4-4266-9cde-3c02ef168432_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-red-08_c7e2d19e-79c6-4a53-b0f5-e3584518ef2c_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-red-07_be965929-5cd6-44ea-a2d1-6ed515aa9e64_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-red-06_e5338c21-88aa-4bfe-9108-fde8b3ebba09_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-red-05_ade74315-62f6-48fb-bac8-359c5a2c9724_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-red-04_new-jbcrop_sharpen_052c731d-be6f-4491-8546-0a49ee8cdec6_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-red-03_ed8a9701-e018-4a76-bcf0-85dea0b53005_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-red-02_dd40b976-3863-4558-a7ea-7c10fb7c852c_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-red-01_ba91994b-aba3-4521-8f59-4308deaaae0b_1000x.jpg?v=1560435382"
+  ], 
+  "offers": {
+    "@type": "aggregateOffer",
+    "availability": "http://schema.org/InStock",
+    "url": "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey?variant=11710763728938",
+    "description": "You Save 20% ($20.00)",
+    "highPrice": "99.95",
+    "lowPrice": "79.95",
+    "offerCount": "1",
+    "priceCurrency": "USD",
+    "eligibleQuantity":{
+    "@type":"QuantitativeValue",
+    "value":"31.50 X 15.00 X 8.50 Inches"
+    }
+  }
+}
+</script>
+
+11. Tan
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband Pillow - Tan, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Shredded Memory Foam, Detachable Neck Roll on Bungee, Removable Covers & Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+  "color":"Tan",
+  "height": "31.5",
+  "width": "8.5",
+  "weight":{
+  "@type": "QuantitativeValue",
+  "value": ["9.1","15"]
+  } ,
+  "gtin12": "712038556342",
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "SKU": "HUSB-BREST-Tan",
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image": [ "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-tan-09_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-tan-08_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-tan-07_sharpen_7826c85d-5d25-4051-8370-e558e808fc41_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-tan-06_8df919cd-6c33-4cc0-b253-27b50e5d7768_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-tan-05_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-tan-04_03c2e98e-1595-4ab2-971f-d9bc862a6a73_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-tan-03_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-tan-02_fe9917f8-e323-46bc-a0d3-49ac3cb1ab53_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-tan-01_1000x.jpg?v=1560435382"
+  ], 
+  "offers": {
+    "@type": "aggregateOffer",
+    "availability": "http://schema.org/InStock",
+    "url": "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey?variant=11710763794474",
+    "description": "You Save 20% ($20.00)",
+    "highPrice": "99.95",
+    "lowPrice": "79.95",
+    "offerCount": "1",
+    "priceCurrency": "USD",
+    "eligibleQuantity":{
+    "@type":"QuantitativeValue",
+    "value":"31.50 X 15.00 X 8.50 Inches"
+    }
+  }
+}
+</script>
+
+12. Maroon
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband Pillow - Maroon, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Shredded Memory Foam, Detachable Neck Roll on Bungee, Removable Covers & Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+  "color":"Maroon",
+  "height": "31.5",
+  "width": "8.5",
+  "weight":{
+  "@type": "QuantitativeValue",
+  "value": ["9.1","15"]
+  } ,
+  "gtin12": "786032510907",
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "SKU": "HUSB-BREST-Marron",
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image": ["https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-maroon-12_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-maroon-11_19f93f9e-3395-481d-9776-61d3a7639172_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-maroon-10_f5814449-baa2-4fad-abc4-17d2919a3aea_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-maroon-09_f8e47afe-6981-4872-bb87-48ca27e8ca89_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-maroon-08_eda6fccf-4bbb-4cd5-9047-dd21482d087f_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-maroon-07_cea993c0-9c3c-486f-bed6-8614c5cdf8b0_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-maroon-06_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-maroon-05_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-maroon-04_2b_update-brightness_under10m_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-maroon-03_c24bc9e3-779f-4ea4-9fc7-0a3df438a844_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-maroon-02_c0d13685-6bec-449e-8038-271afb229913_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-maroon-01_ef1f2aeb-c441-4988-81f3-c7404ca0c8e7_1000x.jpg?v=1560435382"
+  ], 
+  "offers": {
+    "@type": "aggregateOffer",
+    "availability": "http://schema.org/InStock",
+    "url": "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey?variant=12776268595242",
+    "description": "You Save 20% ($20.00)",
+    "highPrice": "99.95",
+    "lowPrice": "79.95",
+    "offerCount": "1",
+    "priceCurrency": "USD",
+    "eligibleQuantity":{
+    "@type":"QuantitativeValue",
+    "value":"31.50 X 15.00 X 8.50 Inches"
+    }
+  }
+}
+</script>
+
+13. Dark Green
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband Pillow - Dark Green, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Shredded Memory Foam, Detachable Neck Roll on Bungee, Removable Covers & Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+  "color":"Dark Green",
+  "height": "31.5",
+  "width": "8.5",
+  "weight":{
+  "@type": "QuantitativeValue",
+  "value": ["9.1","15"]
+  } ,
+  "gtin12": "786032511041",
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "SKU": "HUSB-BREST-DarkGreen",
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image": [  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-darkgreen-09_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-darkgreen-08_588b3a2d-66ec-4d91-9ac7-eb9a7d8458e2_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-darkgreen-07_c01db7ed-f297-42e7-86ed-6cc81820b3a3_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-darkgreen-06_97db3568-1da4-4f83-b8b7-53bb4368f054_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-darkgreen-05_e9361552-f929-472e-8bbf-db1019347165_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-darkgreen-05_life_7a82de16-948f-47b7-87a8-084b6202b4f7_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-darkgreen-03_1a0cdc7e-be04-4346-a507-bc0610ba9aa6_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-darkgreen-02_a2d3d9e4-49d3-4638-a96c-01387c1d5232_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-darkgreen-01_a91fbd0a-93e1-46fc-a0d1-2c32f5a9cec1_1000x.jpg?v=1560435382"
+  ], 
+  "offers": {
+    "@type": "aggregateOffer",
+    "availability": "http://schema.org/InStock",
+    "url": "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey?variant=14217511698474",
+    "description": "You Save 20% ($20.00)",
+    "highPrice": "99.95",
+    "lowPrice": "79.95",
+    "offerCount": "1",
+    "priceCurrency": "USD",
+    "eligibleQuantity":{
+    "@type":"QuantitativeValue",
+    "value":"31.50 X 15.00 X 8.50 Inches"
+    }
+  }
+}
+</script>
+
+14.Desert Sage
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband Pillow - Desert Sage, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Shredded Memory Foam, Detachable Neck Roll on Bungee, Removable Covers & Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+  "color":"Desert Sage",
+  "height": "31.5",
+  "width": "8.5",
+  "weight":{
+  "@type": "QuantitativeValue",
+  "value": ["9.1","15"]
+  } ,
+  "gtin12": "759321879948",
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "SKU": "HUSB-BREST-DesertSage",
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image": [ "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-desertsage-08_edff816f-7689-4201-a0ea-d5cff14b7bd9_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-desertsage-05_20do-not_publish-broken_gamma_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-desertsage-06_ab8b5da5-1ef6-4009-bb6a-6cb5a6cd218b_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-desertsage-04_gamma_f67e3b04-f1c2-45ec-bc5a-1f46207004b7_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-desertsage-04_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-desertsage-03_1ec30205-13f6-4e94-acfc-5291b589c2fc_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-desertsage-02_colorfix2_acea8f7f-890b-4d81-bc30-d9ce319a9768_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-desertsage-01-gamma_e46b84bc-cba2-4b4e-af19-54954c80d61a_1000x.jpg?v=1560435382"
+  ], 
+  "offers": {
+    "@type": "aggregateOffer",
+    "availability": "http://schema.org/InStock",
+    "url": "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey?variant=14217535815722",
+    "description": "You Save 20% ($20.00)",
+    "highPrice": "99.95",
+    "lowPrice": "79.95",
+    "offerCount": "1",
+    "priceCurrency": "USD",
+    "eligibleQuantity":{
+    "@type":"QuantitativeValue",
+    "value":"31.50 X 15.00 X 8.50 Inches"
+    }
+  }
+}
+</script>
+
+15. Light Grey
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband Pillow - Light Grey, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Shredded Memory Foam, Detachable Neck Roll on Bungee, Removable Covers & Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+  "color":" Light Grey",
+  "height": "31.5",
+  "width": "8.5",
+  "weight":{
+  "@type": "QuantitativeValue",
+  "value": ["9.1","15"]
+  } ,
+  "gtin12": "759321879931",
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "SKU": "HUSB-BREST-LightGrey",
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image": ["https://cdn.shopify.com/s/files/1/2813/2280/files/E-HUSB-BREST-LightGrey-01.jpg",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lightgrey-09_d53f1242-4ab2-4e70-9881-80a7c6bcebb6_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lightgrey-08_191723a0-1671-40c7-9111-98bbf6b156fd_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lightgrey-04_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lightgrey-06_5cdbf49c-d09a-41f6-aaa8-4f931061244a_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lightgrey-07_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lightgrey-05_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lightgrey-03_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lightgrey-02_7a7fb542-940e-4399-ac8a-65514db43a62_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-lightgrey-01_1000x.jpg?v=1560435382"
+  ], 
+  "offers": {
+    "@type": "aggregateOffer",
+    "availability": "http://schema.org/InStock",
+    "url": "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey?variant=14217543548970",
+    "description": "You Save 20% ($20.00)",
+    "highPrice": "99.95",
+    "lowPrice": "79.95",
+    "offerCount": "1",
+    "priceCurrency": "USD",
+    "eligibleQuantity":{
+    "@type":"QuantitativeValue",
+    "value":"31.50 X 15.00 X 8.50 Inches"
+    }
+  }
+}
+</script>
+
+16.White
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband Pillow - White, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Shredded Memory Foam, Detachable Neck Roll on Bungee, Removable Covers & Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+  "color":" White",
+  "height": "31.5",
+  "width": "8.5",
+  "weight":{
+  "@type": "QuantitativeValue",
+  "value": ["9.1","15"]
+  } ,
+  "gtin12": "712038609543",
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "SKU": "HUSB-BREST-White",
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image": ["https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-white-12_590aa0bf-8ec4-478a-b310-96430660518a_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-white-11_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-white-10_faf6baf2-a956-4418-880c-fd293e991e2e_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-white-09_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-white-08_36b37c7d-f1ab-4cbe-8ca6-755dad4ef07f_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-white-07_06b79769-62ff-4327-aef1-732b7b63f0d4_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-white-06_fbdb9ce5-dea3-4dc1-8a35-e992fa7457dc_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-white-05_45cd9685-5913-4ca7-a9da-f9bdf8943a75_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-white-04_jb-crop_sharpen_0e75178e-1204-4cb5-9244-f041058b8842_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-white-03_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-white-02_106264bc-a3b5-4fa1-8a3b-a7c11ba6abdc_1000x.jpg?v=1560435382",
+  
+  "https://cdn.shopify.com/s/files/1/2813/2280/products/husb-brest-white-01_1000x.jpg?v=1560435382"
+  ], 
+  "offers": {
+    "@type": "aggregateOffer",
+    "availability": "http://schema.org/{% if product.available %}InStock{% else %}OutOfStock{% endif %}
+",
+    "url": "https://www.hitnotion.com/products/husband-pillow-big-bedrest-reading-support-bed-backrest-with-arms-dark-grey?variant=11710763597866",
+    "description": "You Save 20% ($20.00)",
+    "highPrice": "99.95",
+    "lowPrice": "79.95",
+    "offerCount": "1",
+    "priceCurrency": "USD",
+    "eligibleQuantity":{
+    "@type":"QuantitativeValue",
+    "value":"31.50 X 15.00 X 8.50 Inches"
+    }
+  }
+}
+</script>
+
+
+
+

@@ -1,0 +1,92 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6", 
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount":"28"
+  },
+    "name": "HUSBAND PILLOW",
+    "alternateName" : "Husband pillow-{{current_variant.title}}, Big Reading & Bed Rest Pillow with Arms - Sitting Up Tall with Premium Shredded Memory Foam, Detachable Neck Roll on Bungee, Removable Covers & Zipper Shell for Adjustable Loft",
+    
+  "description": ["PERFECT BEDREST PILLOW- Far more than just a fluffy pillow, the HUSBAND PILLOW serves as a sturdy and fully formed bed backrest that supports the entire upper body as a back pillow; this well-crafted pillow is a must-have",
+"ULTIMATE BED BACKREST - You will feel comfortable with this support pillow that is filled with shredded foam and features a smooth grey microsuede cover; creates the perfect back support for bed for sleeping, resting, lounging, reading, and BED REST",
+"BED REST PILLOW AND BEYOND - Smile knowing your money goes further when you buy this SUPPORT PILLOW that includes a neck roll pillow and a built-in pocket to hold your glasses, a book, mouth guard, or anything you want close to you in bed",
+"VERSATILE AND PORTABLE - Your new favorite BACK PILLOW is easy to take-a-long with you with its handy built-in handle at the top; the neck roll pillow is attached with a button closure and can either extend the pillow height or come off completely",
+"100 DAY MONEY-BACK GUARANTEE - The superior quality and workmanship of the Husband Pillow is backed by our 2-year warranty; this pillow is taller and wider than the leading BACKREST PILLOWS available, measuring 31 inches high"],
+
+  "height": "31.5",
+  "width": "8.5",
+  {% if product.first_available_variant.sku != blank %}
+    "sku": "{{ product.first_available_variant.sku }}",
+  {% else %}
+    "sku": "{{ product.first_available_variant.id }}",
+  {% endif %}
+  {% if product.first_available_variant.barcode.size == 12 %}
+    "gtin12": {{ product.first_available_variant.barcode }},
+  {% endif %}
+  "manufacturer":{ 
+  "@type": "Organization",
+  "name":"Hit Notion"
+  },
+  "category":"Pillow",
+  "brand":{
+   "@type":"Brand",
+   "name": "Husband Pillow",
+   "logo":["https://cdn.shopify.com/s/files/1/2813/2280/files/productorder2.png?20258",
+   "https://cdn.shopify.com/s/files/1/2813/2280/files/3logso.jpg?1867988092978900986"  
+   ]
+  },
+  "image":"https:{{ variant.image.src | img_url: 'grande' }}" , 
+ {% if product.variants %}
+    "offers": [     
+        {
+          "@type" : "Offer",
+          "priceCurrency": "{{ shop.currency }}",
+          "price": "{{ current_variant.price | money_without_currency  | strip_html }}",
+          "itemCondition" : "http://schema.org/NewCondition",
+          "availability" : "http://schema.org/{% if product.available %}InStock{% else %}OutOfStock{% endif %}",
+          "url" : "{{ shop.url }}{{ variant.url }}",
+          "itemOffered" :
+          {
+              "@type" : "Product",
+              {% if variant.image %}
+                {% assign variant_image_size = variant.image.width | append: 'x' %}
+                "image": "http:{{ variant.image.src | img_url: variant_image_size }}",
+              {% endif %}
+              {% if variant.title != blank %}
+                "name" : "{{ variant.title | escape }}",
+              {% endif %}
+              {% if variant.barcode.size == 12 %}
+                "gtin12": {{ variant.barcode }},
+              {% endif %}
+              {% if variant.barcode.size == 13 %}
+                "gtin13": {{ variant.barcode }},
+              {% endif %}
+              {% if variant.barcode.size == 14 %}
+                "gtin14": {{ variant.barcode }},
+              {% endif %}
+              {% if variant.sku != blank %}
+                "sku": "{{ variant.sku }}",
+                {% else %}
+                "sku": "{{ variant.id }}",
+              {% endif %}
+              {% if variant.weight != blank %}
+                "weight": {
+                  "@type": "QuantitativeValue",
+                  {% if variant.weight_unit != blank %}
+                    "unitCode": "{{ variant.weight_unit }}",
+                  {% endif %}
+                  "value": "{{ variant.weight | weight_with_unit: variant.weight_unit }}"
+                },
+              {% endif %}
+              "url": "{{ shop.url }}{{ variant.url }}"
+          }
+        } 
+    ]
+    {%endif%}
+}
+</script>
